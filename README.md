@@ -2,10 +2,10 @@
 
 ## Paper
 
-> This repository is based on our paper:
-**Características maternas e aspectos das assistências pré-natal e parto associados aos desfechos neonatais desfavoráveis em mulheres negras brasileiras: uma abordagem baseada em regras de associação com o algoritmo Apriori**
-Authors: Alves, Yasmin C. S. et al.
-Accepted at: [Dohad](https://www.dohad2025.com.ar/) 2025.
+> This repository is based on our paper:  
+**Características maternas e aspectos das assistências pré-natal e parto associados aos desfechos neonatais desfavoráveis em mulheres negras brasileiras: uma abordagem baseada em regras de associação com o algoritmo Apriori**  
+Authors: Alves, Yasmin C. S. et al.  
+Accepted at: [Dohad](https://www.dohad2025.com.ar/) 2025.  
 
 ## Installation & Usage
 
