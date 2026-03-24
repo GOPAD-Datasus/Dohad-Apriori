@@ -3,4 +3,4 @@ from dev.kmeans import kmeans
 from dev.preprocess import preprocess
 
 
-__all__ = ['preprocess', 'kmeans', 'apriori']
+__all__ = ["preprocess", "kmeans", "apriori"]
